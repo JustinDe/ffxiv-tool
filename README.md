@@ -1,1 +1,4 @@
 # xiv-tool
+
+# flask
+# SQLALchemy
