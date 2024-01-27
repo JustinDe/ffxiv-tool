@@ -1,1 +1,1 @@
-# ffxiv-tool
+# xiv-tool
