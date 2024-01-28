@@ -4,12 +4,12 @@ version = "0.1.0"
 description = ""
 authors = ["Justin Demetroff JustinDe"]
 readme = "README.md"
-packages = [{include = "xiv_tool"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^3.0.1"
 sqlalchemy = "^2.0.25"
+gunicorn = "^21.2.0"
 
 
 [build-system]
