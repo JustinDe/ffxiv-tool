@@ -1,3 +1,13 @@
-h1 {
-    color: red;
+#main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: #222;
+}
+
+#center-title {
+    flex-grow: 6;
+    justify-content: center;
+    text-align: center;
+    color: lightgrey;
 }

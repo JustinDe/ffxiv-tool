@@ -10,6 +10,9 @@ python = "^3.10"
 flask = "^3.0.1"
 sqlalchemy = "^2.0.25"
 gunicorn = "^21.2.0"
+asyncio = "^3.4.3"
+aiohttp = "^3.9.1"
+pyxivapi = "^0.5.1"
 
 
 [build-system]
